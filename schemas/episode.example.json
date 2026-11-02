@@ -1,0 +1,19 @@
+{
+  "show": "hydro90",
+  "ep": 33,
+  "series": "career",
+  "hosts": "主持人A、主持人B",
+  "guests": [
+    {
+      "name": "嘉宾姓名",
+      "photo": "guest.jpg",
+      "fields": [
+        {"label": "就读学校", "value": "某某大学博士在读"},
+        {"label": "研究方向", "value": "某某方向"},
+        {"label": "联系方式", "value": "name@example.com"}
+      ]
+    }
+  ],
+  "audio": "raw.m4a",
+  "end_card": "end_card.jpg"
+}

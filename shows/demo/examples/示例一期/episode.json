@@ -1,0 +1,13 @@
+{
+  "show": "demo",
+  "ep": 1,
+  "series": "interview",
+  "hosts": "主持人甲",
+  "guests": [
+    {"name": "嘉宾乙", "photo": "", "fields": [
+      {"label": "职业", "value": "数据工程师"},
+      {"label": "城市", "value": "上海"}]}
+  ],
+  "audio": "",
+  "end_card": ""
+}

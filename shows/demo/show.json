@@ -1,0 +1,12 @@
+{
+  "name": "示例播客",
+  "series": {
+    "interview": {
+      "name": "人物访谈",
+      "intro": ["欢迎收听《示例播客》的人物访谈系列。在这里，我们和不同领域的人聊聊他们的工作与选择。"]
+    }
+  },
+  "title_format": "{show}EP{ep}：{series}——{topic}",
+  "heading_format": "{series}——{topic}",
+  "template": "template"
+}

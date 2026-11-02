@@ -1,0 +1,47 @@
+{
+  "_说明": "示例内容均为虚构，仅用于演示版式。",
+  "show": "hydro90",
+  "ep": 99,
+  "series": "research-culture",
+  "hosts": "主持人A、主持人B",
+  "guests": [
+    {
+      "name": "嘉宾A",
+      "photo": "",
+      "fields": [
+        {
+          "label": "就读学校",
+          "value": "某欧洲理工大学博士在读"
+        },
+        {
+          "label": "研究方向",
+          "value": "水文模型与洪水预报"
+        },
+        {
+          "label": "联系方式",
+          "value": "guest-a@example.com"
+        }
+      ]
+    },
+    {
+      "name": "嘉宾B",
+      "photo": "",
+      "fields": [
+        {
+          "label": "就读学校",
+          "value": "某欧洲理工大学博士在读"
+        },
+        {
+          "label": "研究方向",
+          "value": "复合极端事件"
+        },
+        {
+          "label": "联系方式",
+          "value": "guest-b@example.com"
+        }
+      ]
+    }
+  ],
+  "audio": "",
+  "end_card": ""
+}
